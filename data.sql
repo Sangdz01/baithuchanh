@@ -40,9 +40,9 @@ CREATE TABLE `member` (
 --
 
 INSERT INTO `member` (`id`, `username`, `password`, `phone`, `email`) VALUES
-(1, 'hainam', '55334C5D829EF98DB8F70D4D29E75D82', '0878397438', 'suppergod1234@gmail.com'),
-(2, 'namokyb', '12345', '0974374035', 'hnam170702@gmail.com'),
-(3, 'okbabe', '12345', '0974374035', 'jhanenalmojeraa@gmail.com');
+(1, 'sangggg', '1234567', '0878397438', 'suppergod1234@gmail.com'),
+(2, 'hainam', '1234567', '0974374035', 'hnam170702@gmail.com'),
+(3, 'thanhdb', '123456', '0974374035', 'thutgf@gmail.com');
 
 --
 -- Chỉ mục cho các bảng đã đổ
